@@ -1,4 +1,4 @@
-
+[snake gif](https://github.com/CagatayAkkas/CagatayAkkas/blob/output/github-contribution-grid-snake.gif)
 
 <h1 align="center"> Hello there, I'm Mert</h1>
 
