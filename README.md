@@ -1,5 +1,5 @@
 [snake gif](https://github.com/mert-unl/mert-unl/blob/output/github-contribution-grid-snake.gif)
-
+![snake gif](https://github.com/mert-unl/mert-unl/blob/output/github-contribution-grid-snake.gif)
 <h1 align="center"> Hello there, I'm Mert</h1>
 
 <p align="center">
