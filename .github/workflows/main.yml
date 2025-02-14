@@ -13,27 +13,26 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Snake animation
-        uses: Platane/snk/svg-only@v4
-        id: snake-gif
+        uses: Platane/snk@v3
         with:
           github_user_name: mert-unl
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: dist  # Tüm dosyaları dist klasörüne kaydet
 
       - name: Check git status
         run: git status
 
       - name: Push changes
-        uses: ad-m/github-push-action@main
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "Updated Snake Contribution Graph 🐍"
           branch: output
-          force: true
+          file_pattern: dist/github-contribution-grid-snake.*
 
       - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v1
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: output
           folder: dist
+          clean: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
