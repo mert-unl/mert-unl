@@ -6,8 +6,9 @@
 </p>
 
 ---
-[snake gif](https://github.com/mert-unl/mert-unl/blob/main/github-contribution-grid-snake.gif)
-![snake gif](https://github.com/mert-unl/mert-unl/blob/output/github-contribution-grid-snake.gif)
+<!--[snake gif](https://github.com/mert-unl/mert-unl/blob/main/github-contribution-grid-snake.gif)
+// ![snake gif](https://github.com/mert-unl/mert-unl/blob/output/github-contribution-grid-snake.gif) -->
+
 ### 👨‍💻 About Me  
 
 I'm an **Android Developer** with 2 years of hands-on experience in creating innovative and user-focused mobile applications.  
@@ -58,9 +59,9 @@ For me, the value of a portfolio lies in showcasing impactful and purposeful pro
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=troemanes&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mert-unl&layout=compact&theme=default" alt="Top Languages" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=troemanes&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mert-unl&theme=default" alt="GitHub Streak" />
 </p>
 
 ---
