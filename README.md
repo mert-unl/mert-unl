@@ -5,14 +5,14 @@
   <img src="https://komarev.com/ghpvc/?username=troemanes&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p> Great code isn't written — it's engineered in the mind before the keyboard is even touched. </p>
 
 <!--[snake gif](https://github.com/mert-unl/mert-unl/blob/main/github-contribution-grid-snake.gif)
 // ![snake gif](https://github.com/mert-unl/mert-unl/blob/output/github-contribution-grid-snake.gif) -->
 
 ### 👨‍💻 About Me  
 
-I'm an **Android Developer** with 2 years of hands-on experience in creating innovative and user-focused mobile applications.  
+"I'm a **Frontend** and **Android Developer** with experience in creating innovative and user-focused mobile and web applications."
+
 - 🌟 Skilled in **Kotlin**, **Jetpack Compose**, and **modern Android development practices**.  
 - 🚀 Passionate about creating mobile apps and games that offer valuable user experiences.
 - 🎯 Although I don't have professional work experience yet, I have been independently building applications and working towards publishing them on the Play Store as part of my entrepreneurial journey.
@@ -78,6 +78,7 @@ For me, the value of a portfolio lies in showcasing impactful and purposeful pro
 ---
 
 ### 🚀 **Let's Build Something Together!**  
+<p> Great code isn't written — it's engineered in the mind before the keyboard is even touched. </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="600" />
@@ -86,5 +87,5 @@ For me, the value of a portfolio lies in showcasing impactful and purposeful pro
 ---
 
 <p align="center">
-📢 "Code is the bridge between dreams and reality."  
+ "Code is the bridge between dreams and reality."  
 </p>
