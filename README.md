@@ -5,7 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=troemanes&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
+<p> Great code isn't written — it's engineered in the mind before the keyboard is even touched. </p>
+
 <!--[snake gif](https://github.com/mert-unl/mert-unl/blob/main/github-contribution-grid-snake.gif)
 // ![snake gif](https://github.com/mert-unl/mert-unl/blob/output/github-contribution-grid-snake.gif) -->
 
