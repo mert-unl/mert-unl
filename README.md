@@ -67,9 +67,9 @@ For me, the value of a portfolio lies in showcasing impactful and purposeful pro
 
 ---
 
-### 📫 Let's Connect  
+### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mert-ünal-androidguy/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mert-%C3%BCnal/)
 <!--
 [![Google Play](https://img.shields.io/badge/Google%20Play-Apps-%234285F4?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=your-id)  
 
