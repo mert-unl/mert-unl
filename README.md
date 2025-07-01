@@ -1,91 +1,84 @@
-
-<h1 align="center"> Hello there, I'm Mert</h1>
+<h1 align="center">Hi there, I'm Mert 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=troemanes&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mert-unl&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-
-<!--[snake gif](https://github.com/mert-unl/mert-unl/blob/main/github-contribution-grid-snake.gif)
-// ![snake gif](https://github.com/mert-unl/mert-unl/blob/output/github-contribution-grid-snake.gif) -->
+---
 
 ### 👨‍💻 About Me  
 
-"I'm a **Frontend** and **Android Developer** with experience in creating innovative and user-focused mobile and web applications."
+I'm a **Full-Stack** and **Mobile Developer** with a strong focus on building scalable, user-focused web and mobile applications.
 
-- 🌟 Skilled in **Kotlin**, **Jetpack Compose**, and **modern Android development practices**.  
-- 🚀 Passionate about creating mobile apps and games that offer valuable user experiences.
-- 🎯 Although I don't have professional work experience yet, I have been independently building applications and working towards publishing them on the Play Store as part of my entrepreneurial journey.
----
+### ⚙️ Tech Stack  
 
-### ⚙️ Key Skills & Tools  
+#### 🧩 Frontend Development  
+- **Core**: HTML, CSS, JavaScript, TypeScript  
+- **Libraries & Frameworks**: React, React Router, Redux Thunk, Context API, Zustand  
+- **Styling**: Tailwind CSS, CSS Modules  
+- **Forms & State**: React Hook Form, Toastify, LocalStorage  
+- **Testing**: Cypress.io  
+- **Principles**: Responsive Design, SPA, Component Architecture  
 
-- **Languages**:JavaScript, TypeScript, Kotlin, Java  
-- **Frameworks & Libraries**: React, Html, Css, Jetpack Compose, XML, Firebase, Room, ML Kit  
-- **Architectures**: MVVM, Repository Pattern
-- **Tools**: Android Studio, Git , Google Maps
+#### 🛠 Backend Development  
+- **Languages & Frameworks**: Java, Spring Boot  
+- **Databases**: PostgreSQL, Firebase (Realtime DB & Firestore)  
+- **ORM & Persistence**: JPA, Hibernate, Repository Pattern  
+- **API Design**: RESTful APIs, Authentication/Authorization, DTO Mapping  
+- **Architecture**: MVC, Layered (Controller-Service-Repository), Global Exception Handling  
 
----
+#### 📱 Mobile Development  
+- **Native**: Kotlin, Jetpack Compose, XML  
+- **Cross-Platform**: React Native  
+- **Architecture**: MVVM, Repository Pattern  
+- **Tools**: Room DB, Firebase Auth, Google Maps SDK, ML Kit (Face Detection)  
 
-### 📂 Why My Repositories Are Private  
-
-As an aspiring entrepreneur, the majority of my projects are **non-open-source** because:  
-- They are published or will be published on the **Google Play Store** as part of my startup initiatives.  
-- I aim to protect the **intellectual property** and unique value propositions of these applications.  
-
-Feel free to check out the **live apps** linked below to explore my work in action.  
-
----
-
-### 💼 Current Projects  
-
-1. **Event-U-Ally**: A social media platform designed for creating and joining events. This was my first major application and the project that inspired me to start learning coding, marking the beginning of my startup journey. Although it was published on the Play Store, it was later removed due to some issues. I am currently redesigning the UI and planning to republish it on Play Store while actively seeking investment opportunities.
-
-2. **DungeonWarrior**: A cross-platform RPG game with immersive gameplay, developed using **Jetpack Compose**. It is almost ready to publish on Play Store.  
-
-3. **Staring Contest**: A social game leveraging **Google's ML Kit** for real-time face tracking. (Still under development)
+#### 🧰 Tools & Platforms  
+- **IDE & Editors**: IntelliJ IDEA, Android Studio, VS Code  
+- **Version Control**: Git, GitHub  
+- **API & Debugging**: Postman, Logcat, Firebase Crashlytics  
+- **Deployment**: Google Play Console, GitHub Actions (CI/CD Basics)  
 
 ---
 
-### 🤔 Why Do I Have Fewer Projects?  
+### 📂 Why Most of My Repositories Are Private  
 
-My goal is to become an entrepreneur, and my journey began with creating my own social media application from scratch. This ambitious undertaking required me to not only learn coding but also tackle the complexities of building a product with real-world impact.  
+As an independent developer and aspiring entrepreneur, many of my projects are unpublished or under active development. I choose to protect:
 
-I prioritize **quality over quantity**, focusing on creating unique, high-quality applications with original designs and innovative ideas. Instead of producing simple, template-based apps to fill my portfolio, I aim to bring my dreams to life by building meaningful projects that reflect my creativity and vision.  
+- 🔐 Unique algorithms, UI/UX designs, and business models  
+- 🚀 Published or upcoming apps on the Play Store  
+- 📈 Projects targeted for future investment and launch  
 
-For me, the value of a portfolio lies in showcasing impactful and purposeful projects rather than an abundance of basic or generic ones. Each project I undertake is a step towards achieving my long-term goals, and I invest my full effort to ensure it stands out.
+---
 
-----
+### 💼 Projects in Progress  
+
+1. **Event-U-Ally** – A social event platform (UI revamp + backend in progress)  
+2. **DungeonWarrior** – An immersive RPG game built with Jetpack Compose, nearly ready for launch  
+3. **Staring Contest** – A social app using ML Kit for real-time face tracking  
+4. **[New Project]** – Full-stack application with React, Spring Boot & PostgreSQL (coming soon)  
+
+---
 
 ### 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mert-unl&layout=compact&theme=default" alt="Top Languages" />
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mert-unl&theme=default" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+### 📫 Let's Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mert-%C3%BCnal/)
-<!--
-[![Google Play](https://img.shields.io/badge/Google%20Play-Apps-%234285F4?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=your-id)  
 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/troemanes)  
--->
 ---
 
-### 🚀 **Let's Build Something Together!**  
-<p> Great code isn't written — it's engineered in the mind before the keyboard is even touched. </p>
+### 🚀 Let's Build Something Meaningful  
+
+<p align="center"><em>"Great code is engineered in the mind before it's typed on a keyboard."</em></p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="600" />
-</p>
-
----
-
-<p align="center">
- "Code is the bridge between dreams and reality."  
 </p>
