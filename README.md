@@ -20,8 +20,8 @@
 
 ### ⚙️ Key Skills & Tools  
 
-- **Languages**: Kotlin, Java  
-- **Frameworks & Libraries**: Jetpack Compose, XML, Firebase, Room, ML Kit  
+- **Languages**:JavaScript, TypeScript, Kotlin, Java  
+- **Frameworks & Libraries**: React, Html, Css, Jetpack Compose, XML, Firebase, Room, ML Kit  
 - **Architectures**: MVVM, Repository Pattern
 - **Tools**: Android Studio, Git , Google Maps
 
