@@ -64,7 +64,6 @@ As an independent developer and aspiring entrepreneur, many of my projects are u
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mert-unl&layout=compact&theme=default" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mert-unl&theme=default" alt="GitHub Streak" />
 </p>
 
 ---
