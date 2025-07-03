@@ -76,7 +76,7 @@ As an independent developer and aspiring entrepreneur, many of my projects are u
 
 ### 🚀 Let's Build Something Meaningful  
 
-<p align="center"><em>"Great code is engineered in the mind before it's typed on a keyboard."</em></p>
+<p align="center"><em>"Code is like a bridge between imagination and reality."</em></p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="600" />
