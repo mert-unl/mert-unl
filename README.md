@@ -54,7 +54,7 @@ As an independent developer and aspiring entrepreneur, many of my projects are u
 ### 💼 Projects in Progress  
 
 1. **Event-U-Ally** – A social event platform (UI revamp + backend in progress)  
-2. **DungeonWarrior** – An immersive RPG game built with Jetpack Compose, nearly ready for launch  
+2. **DungeonWarrior** – An immersive RPG game built with Jetpack Compose. Playable on Google Play Store:  https://play.google.com/store/apps/details?id=com.dwrelease.dungeonwarrior&hl=en
 3. **Staring Contest** – A social app using ML Kit for real-time face tracking  
 4. **[New Project]** – Full-stack application with React, Spring Boot & PostgreSQL (coming soon)  
 
