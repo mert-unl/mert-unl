@@ -15,7 +15,7 @@ I'm a **Full-Stack** and **Mobile Developer** with a strong focus on building sc
 #### 🧩 Frontend Development  
 - **Core**: HTML, CSS, JavaScript, TypeScript  
 - **Libraries & Frameworks**: React, React Router, Redux Thunk, Context API, Zustand  
-- **Styling**: Tailwind CSS, CSS Modules  
+- **Styling**: Tailwind CSS, Bootstrap, MUI
 - **Forms & State**: React Hook Form, Toastify, LocalStorage  
 - **Testing**: Cypress.io  
 - **Principles**: Responsive Design, SPA, Component Architecture  
