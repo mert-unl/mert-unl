@@ -1,5 +1,5 @@
 <h1 align="center">Mert Ünal</h1> <p align="center"> <b>Full-Stack Developer</b><br/>   React · Next.js · Java / Spring Boot · Node.js · C# · Kotlin · Flutter 
- </p> <p align="center target="_blank""> <a href="https://mertunal.com" target="_blank"Portfolio</a> · <a href="https://www.linkedin.com/in/mert-unl/" target="_blank">LinkedIn</a> · <a href="mailto:mertunal1998@gmail.com">mertunal1998@gmail.com</a> </p>
+ </p> <p align="center" target="_blank"> <a href="https://mertunal.com" >Portfolio</a> · <a href="https://www.linkedin.com/in/mert-unl/" target="_blank">LinkedIn</a> · <a href="mailto:mertunal1998@gmail.com">mertunal1998@gmail.com</a> </p>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=mert-unl&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
