@@ -1,101 +1,46 @@
-<h1 align="center">Hi there, I'm Mert 👋</h1>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mert-unl&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=mert-unl&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
+<h1 align="center">Mert Ünal</h1> <p align="center"> <b>Full-Stack Developer</b><br/>   React · Next.js · Java / Spring Boot · Node.js · C# · Kotlin · Flutter 
+ </p> <p align="center"> <a href="https://mertunal.com">Portfolio</a> · <a href="https://www.linkedin.com/in/mert-unl/">LinkedIn</a> · <a href="mailto:mertunal1998@gmail.com">mertunal1998@gmail.com</a> </p>
 
-### 👨‍💻 About Me  
-
-I'm a **Full-Stack** and **Mobile Developer** with a strong focus on building scalable, user-focused web and mobile applications.
-
-### ⚙️ Tech Stack  
-
-#### 🧩 Frontend Development  
-- **Core**: HTML, CSS, JavaScript, TypeScript  
-- **Libraries & Frameworks**: React, React Router, Redux Thunk, Context API, Zustand  
-- **Styling**: Tailwind CSS, Bootstrap, MUI
-- **Forms & State**: React Hook Form, Toastify, LocalStorage  
-- **Testing**: Cypress.io  
-- **Principles**: Responsive Design, SPA, Component Architecture  
-
-#### 🛠 Backend Development  
-- **Languages & Frameworks**: Java, Spring Boot  
-- **Databases**: PostgreSQL, Firebase (Realtime DB & Firestore)  
-- **ORM & Persistence**: JPA, Hibernate, Repository Pattern  
-- **API Design**: RESTful APIs, Authentication/Authorization, DTO Mapping  
-- **Architecture**: MVC, Layered (Controller-Service-Repository), Global Exception Handling  
-
-#### 📱 Mobile Development  
-- **Native**: Kotlin, Jetpack Compose, XML  
-- **Cross-Platform**: React Native  
-- **Architecture**: MVVM, Repository Pattern  
-- **Tools**: Room DB, Firebase Auth, Google Maps SDK, ML Kit (Face Detection)  
-
-#### 🧰 Tools & Platforms  
-- **IDE & Editors**: IntelliJ IDEA, Android Studio, VS Code  
-- **Version Control**: Git, GitHub  
-- **API & Debugging**: Postman, Logcat, Firebase Crashlytics  
-- **Deployment**: Google Play Console, GitHub Actions (CI/CD Basics)  
-
-
-Tech Stack
-
-Frontend
-
-<p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite,cypress" alt="Frontend" /> </p>
-
-Backend & Database
-
-<p> <img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,firebase" alt="Backend" /> </p>
-
-Mobile
-
-<p> <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" alt="Mobile" /> </p>
-
-Tools
-
-<p> <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,idea,vscode" alt="Tools" /> </p>
-
-<sub>Also: Jetpack Compose, MVVM, Hilt, Room, Retrofit, Hibernate (JPA), REST APIs, JWT, C# & Unity (learning).</sub>
 
 ---
 
-### 📂 Why Most of My Repositories Are Private  
+### Tech Stack  
 
-As an independent developer and aspiring entrepreneur, many of my projects are unpublished or under active development. I choose to protect:
+#### Frontend Development  
 
-- 🔐 Unique algorithms, UI/UX designs, and business models  
-- 🚀 Published or upcoming apps on the Play Store  
-- 📈 Projects targeted for future investment and launch  
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite,cypress,bootstrap,zustand" alt="Frontend" /> </p>
+<sub>React Router, Context API, Zustand, TanStack Query, React Hook Form, MUI, Responsive Design, Component Architecture</sub>
 
----
+#### Backend & Database
+<p> <img src="https://skillicons.dev/icons?i=java,nodejs,express,spring,postgres,mongodb,firebase,hibernate" alt="Backend" /> </p>
+<sub>Spring Boot, Hibernate (JPA), REST APIs, JWT authentication, role-based access control</sub>
 
-### 💼 Projects in Progress  
+#### Mobile Development  
+<p> <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart,reactnative" alt="Mobile" /></p> 
+<sub>Jetpack Compose, MVVM, Hilt, Room, Retrofit, Coroutines, Firebase Auth, Google Maps SDK, ML Kit, React Native</sub>
 
-1. **Event-U-Ally** – A social event platform (UI revamp + backend in progress)  
-2. **DungeonWarrior** – An immersive RPG game built with Jetpack Compose. Playable on Google Play Store:  https://play.google.com/store/apps/details?id=com.dwrelease.dungeonwarrior&hl=en
-3. **Staring Contest** – A social app using ML Kit for real-time face tracking  
-4. **[New Project]** – Full-stack application with React, Spring Boot & PostgreSQL (coming soon)  
+#### Game Development
+
+<p> <img src="https://skillicons.dev/icons?i=cs,unity" alt="Game Development" /> </p>
+<sub>2D turn-based roguelike (in progress)</sub>
+
+#### Tools & Platforms  
+<p> <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,idea,vscode" alt="Tools" /> </p>
+
 
 ---
 
 ### 📊 GitHub Stats  
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mert-unl&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 ---
-
-### 📫 Let's Connect  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mert-%C3%BCnal/)
-
----
-
-### 🚀 Let's Build Something Meaningful  
 
 <p align="center"><em>"Code is like a bridge between imagination and reality."</em></p>
 
