@@ -1,17 +1,21 @@
+<h1 align="center">Mert Ünal</h1> <p align="center"> <b>Full-Stack Developer</b><br/>   React · Next.js · Java / Spring Boot · Node.js · C# · Kotlin · Flutter 
+ </p> <p align="center"> <a href="https://mertunal.com">Portfolio</a> · <a href="https://www.linkedin.com/in/mert-unl/">LinkedIn</a> · <a href="mailto:mertunal1998@gmail.com">mertunal1998@gmail.com</a> </p>
+
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=mert-unl&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h1 align="center">Mert Ünal</h1> <p align="center"> <b>Full-Stack Developer</b><br/>   React · Next.js · Java / Spring Boot · Node.js · C# · Kotlin · Flutter 
- </p> <p align="center"> <a href="https://mertunal.com">Portfolio</a> · <a href="https://www.linkedin.com/in/mert-unl/">LinkedIn</a> · <a href="mailto:mertunal1998@gmail.com">mertunal1998@gmail.com</a> </p>
-
-
 ---
+
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mert-unl/mert-unl/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mert-unl/mert-unl/output/github-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/mert-unl/mert-unl/output/github-snake.svg" />
 </picture>
+</p>
+
+---
 
 ### Tech Stack  
 
@@ -36,16 +40,20 @@
 #### Tools & Platforms  
 <p> <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,idea,vscode" alt="Tools" /> </p>
 
-
 ---
 
-### 📊 GitHub Stats  
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mert-unl&layout=compact&theme=default" alt="Top Languages" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mert-unl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mert-unl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6&hide=html,css" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mert-unl&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
 
 ---
+
 
 <p align="center"><em>"Code is like a bridge between imagination and reality."</em></p>
 
