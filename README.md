@@ -39,6 +39,27 @@ I'm a **Full-Stack** and **Mobile Developer** with a strong focus on building sc
 - **API & Debugging**: Postman, Logcat, Firebase Crashlytics  
 - **Deployment**: Google Play Console, GitHub Actions (CI/CD Basics)  
 
+
+Tech Stack
+
+Frontend
+
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite,cypress" alt="Frontend" /> </p>
+
+Backend & Database
+
+<p> <img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,firebase" alt="Backend" /> </p>
+
+Mobile
+
+<p> <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" alt="Mobile" /> </p>
+
+Tools
+
+<p> <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,idea,vscode" alt="Tools" /> </p>
+
+<sub>Also: Jetpack Compose, MVVM, Hilt, Room, Retrofit, Hibernate (JPA), REST APIs, JWT, C# & Unity (learning).</sub>
+
 ---
 
 ### 📂 Why Most of My Repositories Are Private  
